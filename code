@@ -245,7 +245,7 @@ if answer_1 == "left":
                 
 *******************************************************************************
 
-'''"You wake him up and he tells you his ship crashed and he is grateful you were friendly towards him. He pulls a key out of his pocket and tells you it might open something. You go back to the cave and give the mermaid the key. She opens the treasure chest with the key. You Win!")
+'''"You wake him up and he tells you he is grateful you were friendly towards him. He pulls a key out of his pocket and tells you it might open something. You go back to the cave and give the mermaid the key. She opens the treasure chest with the key. You Win!")
 elif answer_1 == "right":
   print('''
   *******************************************************************************
@@ -345,7 +345,7 @@ elif answer_1 == "right":
                 
 *******************************************************************************
 
-'''"You wake him up and he tells you he is grateful you were friendly towards him. He pulls a key out of his pocket and tells you it might open something. You go back to the cave and give the mermaid the key. She opens the treasure chest with the key. You Win!")
+'''"You wake him up and he tells you his ship crashed and he is grateful you were friendly towards him. He pulls a key out of his pocket and tells you it might open something. You leave the ship and go to the cave. You step inside to discover the cave is filled with water. Suddenly, the water level lowers to reveal a mermaid surrounded by gold coins and a large treasure chest. She tells you she will give it to you if you find the key to open it. You give the mermaid the key. She opens the treasure chest with the key. You Win!")
 else:
   print('''
 *******************************************************************************
